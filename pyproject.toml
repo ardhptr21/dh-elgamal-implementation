@@ -1,0 +1,7 @@
+[project]
+name = "dh-elgamal-implementation"
+version = "0.1.0"
+description = "Educational Diffie-Hellman and ElGamal using only the Python standard library"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
